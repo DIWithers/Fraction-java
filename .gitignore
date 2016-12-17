@@ -2,3 +2,5 @@
 *.iws
 .idea/tasks.xml
 .idea/workspace.xml
+#Ignore build output
+*/classes
